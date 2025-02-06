@@ -18,7 +18,8 @@
 ---
 
 ## 📫 Connect with Me  
-[![LinkedIn] (https://www.linkedin.com/in/navatharshini-balachandran-64b279215?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/navatharshini-balachandran-64b279215?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
 
 [![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github)](https://github.com/navatharshini)
 
