@@ -45,11 +45,7 @@
 
 ---
 
-## 💬 Ask me about  
-- Machine Learning algorithms  
-- Web Development with Node.js & React  
-- Face Recognition with OpenCV  
-- Anything related to **CSE**
+
 
 ---
 
