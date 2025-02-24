@@ -17,7 +17,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)  
 
 ### 🚀 Other Technologies  
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)  
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv)  
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat-square&logo=pytorch)  
