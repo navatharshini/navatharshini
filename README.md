@@ -5,13 +5,23 @@
 ---
 
 ## 🔧 Technologies & Tools  
-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)  
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)  
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)  
-- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
--![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)
--![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite)
+
+### 🎨 Frontend  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)  
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)  
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite)  
+
+### 🖥 Backend & Database  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)  
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)  
+
+### 🚀 Other Technologies  
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)  
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv)  
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat-square&logo=pytorch)  
+
 
 
 ---
