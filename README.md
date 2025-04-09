@@ -31,19 +31,20 @@
 ![Current Streak](https://img.shields.io/badge/Current%20Streak-21%20Days-brightgreen?style=flat-square)
 
 ## 🛠️ Languages and Tools :
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-FFD700?style=flat-square&logo=javascript)  
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)  
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)  
-![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github)  
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter)  
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0078D4?style=flat-square&logo=visualstudiocode)
-
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python" alt="Python"/>
+  <img src="https://img.shields.io/badge/-JavaScript-FFD700?style=for-the-badge&logo=javascript" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java" alt="Java"/>
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus" alt="C++"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react" alt="React"/>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git" alt="Git"/>
+  <img src="https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visualstudiocode" alt="Visual Studio Code"/>
+</p>
 
 
 
