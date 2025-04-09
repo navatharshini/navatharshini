@@ -30,7 +30,7 @@
 ## 🏅 My Achievements  
 ![Current Streak](https://img.shields.io/badge/Current%20Streak-21%20Days-brightgreen?style=flat-square)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navatharshini&langs_count=10&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navatharshini&langs_count=10&theme=radical&hide=html,css)
 
 
 ---
