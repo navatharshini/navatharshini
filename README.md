@@ -30,8 +30,19 @@
 ## 🏅 My Achievements  
 ![Current Streak](https://img.shields.io/badge/Current%20Streak-21%20Days-brightgreen?style=flat-square)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navatharshini&langs_count=10&theme=radical&hide=html,css)
-
+## 🛠️ Languages and Tools :
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-FFD700?style=flat-square&logo=javascript)  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)  
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)  
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)  
+![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github)  
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter)  
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0078D4?style=flat-square&logo=visualstudiocode)
 
 
 
