@@ -22,9 +22,18 @@
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat-square&logo=pytorch)  
 
 ---
-
 ## 📊 GitHub Stats  
-![Navatharshini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=navatharshini&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+---
+
+## 🏅 My Achievements  
+![Current Streak](https://img.shields.io/badge/Current%20Streak-21%20Days-brightgreen?style=flat-square)
+
+## 📈 Most Used Languages  
+![JavaScript](https://img.shields.io/badge/-JavaScript-FFD700?style=flat-square&logo=javascript)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)  
 
 ---
 
