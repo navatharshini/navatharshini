@@ -9,7 +9,6 @@
 ### 🎨 Frontend
 <p align="center">
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react" alt="React"/>
-  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap" alt="Bootstrap"/>
   <img src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite" alt="Vite"/>
 </p>
 
