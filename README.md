@@ -32,7 +32,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navatharshini&langs_count=10&theme=radical&hide=html,css)
 
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter)
+
 
 
 
