@@ -1,5 +1,5 @@
 ## 🚀 About Me  
-🎓 **3rd Year CSE Student | University of Moratuwa**  
+🎓 **Final Year CSE Student | University of Moratuwa**  
 💡 Exploring **Machine Learning**, **AI**, and **Web Technologies**  
 
 ---
